@@ -43,7 +43,7 @@ public class mathFunctionsTest {
     }
     @Test
     public void estaPresente(){
-        boolean result = mathfunctions.estaPresente(4256,2);
+        boolean result = mathfunctions.estaPresente(4256,3);
         assertTrue(result);
     }
 
